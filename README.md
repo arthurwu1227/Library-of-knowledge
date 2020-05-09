@@ -1,5 +1,5 @@
 # Library-of-knowledge
-This repository is dedicated to sharing educational materials.
+This repository is dedicated to sharing educational materials among friends.
 This repository has some books which are quite easy to find with a google search, and also has some books which are
 harder to obtain.
 I also have some books which were too big to upload here. You can email me at arthur.kainan.wu@gmail.com if you want a
