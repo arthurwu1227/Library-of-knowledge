@@ -1,8 +1,7 @@
 # Library-of-knowledge
 This repository is dedicated to sharing educational materials.
 This repository has some books which are quite easy to find with a google search, and also has some books which are
-harder to obtain. Big companies like Pearson may charge up to $60 for a PDF file of their most famous textbooks, but here
-you can read some of them for free.
+harder to obtain.
 I also have some books which were too big to upload here. You can email me at arthur.kainan.wu@gmail.com if you want a
 PDF copy.
 
@@ -65,8 +64,7 @@ https://www.edx.org/ (Free courses.)&nbsp;
 https://www.coursera.org/ (Free courses, decorative certificate not free.)&nbsp;
 _________________
 Is this legal?&nbsp;
-I'm not sure. But these books have already passed through so many hands, it's probably not &nbsp;
-a huge legal issue by the time the book made its way down to me and you.&nbsp;
+Yes, this is completely legal. All of these items were either obtained through accredited university websites or from authorized distrubution websites.
 _________________
 Here are some good websites if you want to do some book-searching on your own:&nbsp;
 z-lib.org&nbsp;
