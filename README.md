@@ -52,6 +52,6 @@ Campbell's Biology, 11th edition/
 Good for Biology Olympiad and AP Biology. If you want a good Biology textbook, there's no better one then Campbell's. Email me.
 
 Zumdahl Chemistry, 9th Edition
-Good for AP Chemistry.
+Good for AP Chemistry. Email me.
 
 
