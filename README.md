@@ -1,5 +1,5 @@
 # Library-of-knowledge
-Take what you need, and don't squeal to the authorities. Thanks.
+Take what you need.
 _________________
 Additional Resources:
 https://chortle.ccsu.edu/Java5/index.html#87 (AP CS A)&nbsp;
