@@ -54,24 +54,25 @@ Zumdahl Chemistry, 9th Edition
 Good for AP Chemistry. Email me.
 _________________
 Additional Resources:
-https://chortle.ccsu.edu/Java5/index.html#87 (AP CS A)
-https://www.udemy.com/course/learn-python-3-from-scratch-python-for-absolute-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-KjKFCS7vdXpIc2JqQQnlWw (Free python course)
+https://chortle.ccsu.edu/Java5/index.html#87 (AP CS A)&nbsp;
+https://www.udemy.com/course/learn-python-3-from-scratch-python-for-absolute-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-KjKFCS7vdXpIc2JqQQnlWw (Free python course)&nbsp;
 https://www.mikedane.com/databases/sql/ (SQL)&nbsp;
-https://www.freetutorials.ca/ (Free content, which was usually paid.)
-https://www.freecodecamp.org/ (Free content.)
-https://ocw.mit.edu/index.htm (Free MIT lectures and course materials.)
-https://oyc.yale.edu/courses (Free Yale lectures.)
-https://www.edx.org/
+https://www.freetutorials.ca/ (Free content, which was usually paid.)&nbsp;
+https://www.freecodecamp.org/ (Free content.)&nbsp;
+https://ocw.mit.edu/index.htm (Free MIT lectures and course materials.)&nbsp;
+https://oyc.yale.edu/courses (Free Yale lectures.)&nbsp;
+https://www.edx.org/ (Free courses.)&nbsp;
+https://www.coursera.org/ (Free courses, decorative certificate not free.)&nbsp;
 _________________
-Is this legal?
-I'm not sure. But these books have already passed through so many hands, it's probably not 
-a huge legal issue by the time the book made its way down to me and you.
+Is this legal?&nbsp;
+I'm not sure. But these books have already passed through so many hands, it's probably not &nbsp;
+a huge legal issue by the time the book made its way down to me and you.&nbsp;
 _________________
-Here are some good websites if you want to do some book-searching on your own:
-z-lib.org
-pdfdrive.com
-aazea.com
-reddit (some people give PDF textbooks to others in need if you ask for it.)
+Here are some good websites if you want to do some book-searching on your own:&nbsp;
+z-lib.org&nbsp;
+pdfdrive.com&nbsp;
+aazea.com&nbsp;
+reddit (some people give PDF textbooks to others in need if you ask for it.)&nbsp;
 ___________________
 So far, I've only read a bit of Campbell's, so all my reviews here are mostly copying off what others said. I hope you find something useful here.
 
