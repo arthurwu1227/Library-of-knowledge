@@ -1,5 +1,6 @@
 # Library-of-knowledge
 This repository is dedicated to sharing educational materials among friends.
+Please don't share this with anyone else, because it's kind of illegal. Thanks.
 This repository has some books which are quite easy to find with a google search, and also has some books which are
 harder to obtain.
 I also have some books which were too big to upload here. You can email me at arthur.kainan.wu@gmail.com if you want a
@@ -56,11 +57,11 @@ Additional Resources:
 https://chortle.ccsu.edu/Java5/index.html#87 (AP CS A)&nbsp;
 https://www.udemy.com/course/learn-python-3-from-scratch-python-for-absolute-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-KjKFCS7vdXpIc2JqQQnlWw (Free python course)&nbsp;
 https://www.mikedane.com/databases/sql/ (SQL)&nbsp;
-https://www.freetutorials.ca/ (Free content, which was usually paid.)&nbsp;
+https://www.freetutorials.ca/ (Free content.)&nbsp;
 https://www.freecodecamp.org/ (Free content.)&nbsp;
 https://ocw.mit.edu/index.htm (Free MIT lectures and course materials.)&nbsp;
 https://oyc.yale.edu/courses (Free Yale lectures.)&nbsp;
-https://www.edx.org/ (Free courses.)&nbsp;
+https://www.edx.org/ (Free courses, decorative certificate not free.)&nbsp;
 https://www.coursera.org/ (Free courses, decorative certificate not free.)&nbsp;
 _________________
 Here are some good websites if you want to do some book-searching on your own:&nbsp;
@@ -69,6 +70,6 @@ pdfdrive.com&nbsp;
 aazea.com&nbsp;
 reddit (some people give PDF textbooks to others in need if you ask for it.)&nbsp;
 ___________________
-So far, I've only read a bit of Campbell's, so all my reviews here are mostly copying off what others said. I hope you find something useful here.
+If you've got something to add to the library, please submit a pull request.
 
 
