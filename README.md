@@ -59,6 +59,9 @@ https://www.udemy.com/course/learn-python-3-from-scratch-python-for-absolute-beg
  https://www.mikedane.com/databases/sql/ (SQL)
  https://www.freetutorials.ca/ (Free content, which was usually paid.)
  https://www.freecodecamp.org/ (Free content.)
+ https://ocw.mit.edu/index.htm (Free MIT lectures and course materials.)
+ https://oyc.yale.edu/courses (Free Yale lectures.)
+ https://www.edx.org/
 _________________
 Is this legal?
 I'm not sure. But these books have already passed through so many hands, it's probably not 
