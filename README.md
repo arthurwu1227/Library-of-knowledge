@@ -1,5 +1,7 @@
 # Library-of-knowledge
 Take what you need. Buddies only. I hope you find something interesting.
+
+Most of this is legal (I think.)
 _________________
 Additional Resources:
 https://chortle.ccsu.edu/Java5/index.html#87 (AP CS A)&nbsp;
