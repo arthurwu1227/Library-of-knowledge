@@ -53,16 +53,21 @@ Good for Biology Olympiad and AP Biology. If you want a good Biology textbook, t
 Zumdahl Chemistry, 9th Edition
 Good for AP Chemistry. Email me.
 _________________
-Here are some good websites if you want to do some book-searching on your own:
-z-lib.org
-pdfdrive.com
-aazea.com
-reddit (some people give PDF textbooks to others in need.)
+Additional Resources:
+Udemy
+https://chortle.ccsu.edu/Java5/index.html#87 (AP CS A)
+https://www.udemy.com/course/learn-python-3-from-scratch-python-for-absolute-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-KjKFCS7vdXpIc2JqQQnlWw (Free python course)
 _________________
 Is this illegal?
 I'm not sure. But these books have already passed through so many hands, it's probably not 
 a huge threat by the time the book made its way down to me.
 _________________
+Here are some good websites if you want to do some book-searching on your own:
+z-lib.org
+pdfdrive.com
+aazea.com
+reddit (some people give PDF textbooks to others in need if you ask for it.)
+___________________
 So far, I've only read a bit of Campbell's, so all my reviews here are mostly copying off what others said. I hope you find something useful here.
 
 
