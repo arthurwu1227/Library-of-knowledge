@@ -57,6 +57,9 @@ Additional Resources:
 Udemy
 https://chortle.ccsu.edu/Java5/index.html#87 (AP CS A)
 https://www.udemy.com/course/learn-python-3-from-scratch-python-for-absolute-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-KjKFCS7vdXpIc2JqQQnlWw (Free python course)
+ https://www.mikedane.com/databases/sql/ (SQL)
+ https://www.freetutorials.ca/ (Free content, which was usually paid.)
+ https://www.freecodecamp.org/ (Free content.)
 _________________
 Is this illegal?
 I'm not sure. But these books have already passed through so many hands, it's probably not 
