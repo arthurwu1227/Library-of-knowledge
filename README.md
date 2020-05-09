@@ -61,9 +61,9 @@ https://www.udemy.com/course/learn-python-3-from-scratch-python-for-absolute-beg
  https://www.freetutorials.ca/ (Free content, which was usually paid.)
  https://www.freecodecamp.org/ (Free content.)
 _________________
-Is this illegal?
+Is this legal?
 I'm not sure. But these books have already passed through so many hands, it's probably not 
-a huge threat by the time the book made its way down to me.
+a huge legal issue by the time the book made its way down to me and you.
 _________________
 Here are some good websites if you want to do some book-searching on your own:
 z-lib.org
