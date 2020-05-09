@@ -63,9 +63,6 @@ https://oyc.yale.edu/courses (Free Yale lectures.)&nbsp;
 https://www.edx.org/ (Free courses.)&nbsp;
 https://www.coursera.org/ (Free courses, decorative certificate not free.)&nbsp;
 _________________
-Is this legal?&nbsp;
-Yes, this is completely legal. All of these items were either obtained through accredited university websites or from authorized distrubution websites.
-_________________
 Here are some good websites if you want to do some book-searching on your own:&nbsp;
 z-lib.org&nbsp;
 pdfdrive.com&nbsp;
