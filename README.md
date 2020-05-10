@@ -6,7 +6,6 @@ Additional Resources:
 https://chortle.ccsu.edu/Java5/index.html#87 (AP CS A)&nbsp;
 https://www.udemy.com/course/learn-python-3-from-scratch-python-for-absolute-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-KjKFCS7vdXpIc2JqQQnlWw (Free python course)&nbsp;
 https://www.mikedane.com/databases/sql/ (Free SQL)&nbsp;
-https://www.freetutorials.ca/ (Free content.)&nbsp;
 https://www.freecodecamp.org/ (Free content.)&nbsp;
 https://ocw.mit.edu/index.htm (Free MIT lectures and course materials.)&nbsp;
 https://oyc.yale.edu/courses (Free Yale lectures.)&nbsp;
