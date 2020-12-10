@@ -1,6 +1,4 @@
-# Library-of-knowledge
-Take what you need. Buddies only. I hope you find something interesting.
-If you need a specific book, I'll try to hook you up.
+place where I store my books.
 _________________
 Additional Resources:
 https://chortle.ccsu.edu/Java5/index.html#87 (AP CS A)&nbsp;
